@@ -15,7 +15,7 @@ I've been working on Ruby projects for companies in Pakistan and remotely. My co
     	<a href="https://muneebfarooqi.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/test-account.png"/></a>
 	<a href="https://github.com/farooki/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/muneeb-ahmad-671a44123/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/muneebfarooqii"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://twitter.com/muneebfarooqii"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter-squared.png"/></a>
     	<a href="https://wa.me/923364658144"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
 </p>
 </div>
