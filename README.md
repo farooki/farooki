@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Muneeb Ahmad Farooqi 👋 </h1>
+<h1 align="center"> Hi, I'm Farooqi 👋 </h1>
 
 <p align="left">
   I am a software developer and IT consultant specializing in <b>Ruby on Rails, Python and Elixir</b> applications.
